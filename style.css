@@ -6,7 +6,7 @@ h1 {
   text-align: center;
   font-size: clamp(16px,8vw,48px);
   padding-bottom: 10px;
-  text-shadow: 3px 3px 6px rgb(115, 113, 114);
+  text-shadow: 3px 3px 6px rgb(157, 155, 156);
   color: #2d2d2d;
 }
 img {
@@ -27,3 +27,4 @@ body background-image {
     max-height: auto; 
 
 }
+
