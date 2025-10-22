@@ -5,7 +5,7 @@ h1 {
 }
 img {
     display: block;
-    max-width: 50%;
+    max-width: 80%;
     max-height: auto;
     margin: 0 auto;
     border-radius: 16px;
@@ -15,4 +15,5 @@ audio {
  display: block;
  margin: 0 auto; 
  padding-top: 20px;
+
 }
