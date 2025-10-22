@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  font-size: clamp(25px,8vw,100px);
+}
+img {
+   display: block;
+    max-width: 50%;
+   vertical-align: auto;
+   height: auto;
+   margin: 50 auto;
+   border-radius: 16px;
+   border: 5px solid green;
+}
+audio {
+ display: block;
+ margin: 0 auto; 
+}
